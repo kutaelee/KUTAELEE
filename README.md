@@ -1,4 +1,4 @@
-### Hi there 👋
+### 레파지토리는 시작일_프로젝트명_주요환경 순으로 정리되어있습니다.
 
 <!--
 **kutaelee/kutaelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
